@@ -3,6 +3,9 @@
 ## Overview
 Built a Logistic Regression model to predict loan default risk using borrower demographic, financial, and loan-related data.
 
+## Dataset Source
+Dataset obtained from Kaggle: https://www.kaggle.com/datasets/nikhil1e9/loan-default 
+
 ## Tech Stack
 - Python
 - Pandas
